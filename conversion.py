@@ -1,0 +1,6 @@
+result = input("Please enter a number to convert: ")
+print(type(result))
+num = int(result)
+str(22)
+float("22.13")
+bool("string")
